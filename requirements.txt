@@ -10,7 +10,7 @@ Faker==15.3.4
 hashring==1.5.1
 iniconfig==1.1.1
 ipdb==0.13.11
-ipython==8.8.0
+ipython==8.10.0
 jedi==0.18.2
 matplotlib-inline==0.1.6
 memcache==0.12.0
